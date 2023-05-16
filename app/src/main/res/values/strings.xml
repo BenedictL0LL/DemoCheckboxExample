@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo Checkbox Example</string>
+    <string name="displayCheck">CHECK</string>
+    <string name="textView1">Answer</string>
+    <string name="checkBoxDiscount">Discount\n</string>
+</resources>
